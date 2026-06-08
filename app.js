@@ -1,1 +1,1 @@
-const myCalculator = () => {};
+const myCalculator = (son1) => {};
